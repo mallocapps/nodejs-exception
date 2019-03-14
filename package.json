@@ -1,5 +1,5 @@
 {
-  "name": "@revenuewire/rest-exception",
+  "name": "@mallocapps/rest-exception",
   "version": "1.0.0",
   "description": "Extend Error handling for rest api",
   "main": "exception.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/revenuewire/nodejs-rest-exception.git"
+    "url": "git+https://github.com/mallocapps/nodejs-rest-exception.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/revenuewire/nodejs-rest-exception/issues"
+    "url": "https://github.com/mallocapps/nodejs-rest-exception/issues"
   },
-  "homepage": "https://github.com/revenuewire/nodejs-rest-exception#readme",
+  "homepage": "https://github.com/mallocapps/nodejs-rest-exception#readme",
   "dependencies": {
     "slug": "^1.0.0"
   }
