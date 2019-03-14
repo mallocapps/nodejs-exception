@@ -1,6 +1,6 @@
 {
   "name": "@mallocapps/rest-exception",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Extend Error handling for rest api",
   "main": "exception.js",
   "scripts": {
